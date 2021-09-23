@@ -1,0 +1,29 @@
+#adnan
+{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.text{
+    text-align: center;
+}
+.headings{
+    text-align: center;
+    background-color:darkblue;
+    color:white;
+}
+ td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
+#profession{
+    color: grey;
+}
+li{
+    font-weight: bold;
+}
